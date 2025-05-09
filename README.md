@@ -1,1 +1,1 @@
-# AI-Disease-Prediction
+                          The increasing prevalence of diseases like dengue, malaria, and typhoid, coupled with delayed diagnosis, leads to poor patient outcomes. Traditional methods of diagnosis rely heavily on clinical experience and can miss early signs, especially when symptoms are mild or overlap across multiple conditions.This project aims to predict diseases early based on symptoms reported by patients, using AI-based prediction models.
