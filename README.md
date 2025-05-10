@@ -18,7 +18,7 @@ scikit-learn
 HTML/CSS
 ##Getting Started
 Step1:Clone the Repository
-'''bash git clone https://github.com/janani0673/AI-Disease-Prediction/settings cd AI-Disease-Prediction
+'''bash git clone https://github.com/nandhini-127/AI-Disease-Prediction cd AI-Disease-Prediction
 
 Step 2: Set Up a Virtual Environment
 
