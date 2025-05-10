@@ -1,30 +1,35 @@
-##AI Disease Prediction
+# AI Disease Prediction
 This is a Flask web application that predicts the most likely disease based on the symptoms selected by the user. It uses a machine learning model (Decision Tree Classifier) trained on a realistic synthetic dataset with 100 diseases and multiple symptoms.
 
-##Features
-Input form for patient details
-Symptom checklist dynamically generated from dataset
-Disease prediction based on selected symptoms
-Displays prediction result and model accuracy
-Responsive and styled UI
-##Dataset Used
+## Features
+- Input form for patient details  
+- Symptom checklist dynamically generated from dataset  
+- Disease prediction based on selected symptoms  
+- Displays prediction result and model accuracy  
+- Responsive and styled UI  
+
+## Dataset Used
 The model is trained on a synthetic dataset containing realistic combinations of symptoms and diseases.
 
-##Technologies Used
-Python
-Flask
-Pandas
-scikit-learn
-HTML/CSS
-##Getting Started
-Step1:Clone the Repository
-'''bash git clone https://github.com/nandhini-127/AI-Disease-Prediction cd AI-Disease-Prediction
+## Technologies Used
+- Python  
+- Flask  
+- Pandas  
+- scikit-learn  
+- HTML/CSS  
+
+## Getting Started
+Step 1: Clone the Repository  
+'''bash
+git clone https://github.com/nandhini-127/AI-Disease-Prediction
+cd Disease-Prediction
 
 Step 2: Set Up a Virtual Environment
 
 python -m venv venv
 
-Step 3: Activate the Virtual Environment For Windows:
+Step 3: Activate the Virtual Environment
+For Windows:
 
 venv\Scripts\activate
 
@@ -45,24 +50,24 @@ Open your browser and go to: http://127.0.0.1:5000
 Folder Structure
 
 /static/  
-   - bg2
-   - home_background
-   - img1
-   - img2
-   - img3
-    - img4
-     -logo
-     -result_background
-     -script.js
-     style
+- bg2
+- home_background
+-  img1
+-  img2
+-  img3
+-  img4
+-  logo
+- result_background
+- script.js
+- style
 /model/
 - accuracy
-- - disease_model
-  - - symptoms
+-  disease_model
+-  symptoms
 
-/templates/  
-- index.html
--   - symptoms.html
--  - result.html
 
-app.py synthetic_symptoms_dataset_realistic_100_diseases(3).xlsx
+/templates/
+  - index.html
+  - symptoms.html
+  - result.html
+
