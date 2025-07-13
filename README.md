@@ -9,7 +9,7 @@ This is a Flask web application that predicts the most likely disease based on t
 - Responsive and styled UI  
 
 ## Dataset Used
-The model is trained on a synthetic dataset containing realistic combinations of symptoms and diseases.
+The model is trained on a  dataset containing realistic combinations of symptoms and diseases.
 
 ## Technologies Used
 - Python  
