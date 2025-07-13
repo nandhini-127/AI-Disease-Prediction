@@ -71,4 +71,4 @@ Folder Structure
   - symptoms.html
   - result.html
 
-app.py synthetic_symptoms_dataset_realistic_100_diseases(3).xlsx
+app.py Symptoms_Dataset.xlsx
